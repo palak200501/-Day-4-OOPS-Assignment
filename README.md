@@ -1,0 +1,3 @@
+This Jupyter Notebook provides a comprehensive introduction to Object-Oriented Programming (OOP) in Python. OOP is a programming paradigm that organizes code into objects and classes, making programs more modular, reusable, and easier to maintain. It is widely used in software development to model real-world entities and solve complex programming problems efficiently.
+
+This notebook covers the fundamental concepts of OOP with simple explanations, syntax, and practical examples. It is designed for beginners who want to understand how Python uses classes and objects to build structured and scalable applications.
